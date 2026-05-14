@@ -4,7 +4,7 @@ Athena is a persistent-memory cognitive architecture designed for long-duration 
 
 The project explores bounded cognition, persistent operational memory, retrieval discipline, reduced transcript replay dependency, long-duration runtime continuity, and observability-first AI orchestration.
 
-![Athena Persistent-Memory Architecture](images/architecture-overview.png)
+![Athena Persistent-Memory Architecture](images/Athena overall PowerPoint.png)
 
 ## White Paper
 
