@@ -1,6 +1,6 @@
 # Athena Persistent-Memory Architecture
 
-![Athena Persistent-Memory Architecture](images/Athena%20Persistance%20is%20Cognition.png)
+![Athena Persistent-Memory Architecture](images/Athena%20-%20Persistance%20is%20Cognition.png)
 
 Athena is a persistent-memory cognitive architecture designed for long-duration multi-agent AI systems operating within orchestration environments such as OpenClaw.
 
