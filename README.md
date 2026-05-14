@@ -6,10 +6,13 @@ The project explores bounded cognition, persistent operational memory, retrieval
 
 ![Athena Persistent-Memory Architecture](images/Athena%20overall%20PowerPoint.png)
 
+---
+
 ## White Paper
 
-Download:
-[Athena Persistent-Memory Architecture White Paper v1.0](docs/Athena_Persistent_Memory_Cognitive_Architecture_Whitepaper_v1.pdf)
+[Download Athena Persistent-Memory Architecture White Paper v1.0](docs/Athena_Persistent_Memory_Cognitive_Architecture_Whitepaper_v1.pdf)
+
+---
 
 ## Core Concepts
 
@@ -20,9 +23,12 @@ Download:
 - Observable execution state
 - Operational resilience through retrieval discipline
 
+---
+
 ## Architecture Goals
 
 Athena was developed through real-world operational experimentation involving:
+
 - long-duration runtime continuity
 - orchestration regressions
 - context saturation failures
@@ -30,9 +36,13 @@ Athena was developed through real-world operational experimentation involving:
 - multi-agent coordination
 - observability-first runtime engineering
 
+---
+
 ## Runtime Environment
 
 Athena operates within the OpenClaw multi-agent orchestration ecosystem created by Peter Steinberger and the broader OpenClaw contributor community.
+
+---
 
 ## Status
 
