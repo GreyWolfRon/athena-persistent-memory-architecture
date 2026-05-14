@@ -7,7 +7,7 @@ The project explores bounded cognition, persistent operational memory, retrieval
 ## White Paper
 
 Download:
-[Athena Persistent-Memory Architecture White Paper v1.0](docs/Athena_White_Paper_v1.0.pdf)
+[Athena Persistent-Memory Architecture White Paper v1.0](docs/Athena_Persistent_Memory_Cognitive_Architecture_Whitepaper_v1.pdf)
 
 ## Core Concepts
 
