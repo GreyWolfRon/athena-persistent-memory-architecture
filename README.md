@@ -1,3 +1,7 @@
+![GitHub stars](https://img.shields.io/github/stars/GreyWolfRon/athena-persistent-memory-without-context.svg)
+
+
+
 # Athena Persistent-Memory Architecture
 
 ![Athena Persistent-Memory Architecture](images/Athena%20-%20Persistance%20is%20Cognition.png)
